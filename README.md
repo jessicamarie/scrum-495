@@ -13,3 +13,7 @@
 * screenshots: Contains screenshots of the app. I will try to upload screenshots of the apps progress by using a new folder each time.
 
 * ScrumKickoff: This folder is the AndroidStudio project used to creat this app.
+-------------------------------------------------------------
+3-27-17 
+
+* SampleProjects: This folder contains three exmple apps I made in the past for CS442. It also has the apk files for these apps in a seperate folder for downloading and tryig out on a android mobile device.
